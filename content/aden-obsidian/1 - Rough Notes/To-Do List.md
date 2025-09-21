@@ -1,6 +1,8 @@
+---
+publish: "False"
+---
 ## Get Done TODAY:
 
-- [x] Put first tasks for RF in sheet, drop in Slack
 - [ ] Start work on 526
 - [ ] Start looking into Hardware Platforms for Senior Design
 ## Classes
