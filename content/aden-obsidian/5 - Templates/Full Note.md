@@ -1,3 +1,7 @@
+---
+publish: True
+---
+
 {{date}} {{time}}
 
 Status:

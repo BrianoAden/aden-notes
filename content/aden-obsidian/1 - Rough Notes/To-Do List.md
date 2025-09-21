@@ -1,5 +1,5 @@
 ---
-publish: "False"
+publish: sFalse
 ---
 ## Get Done TODAY:
 
