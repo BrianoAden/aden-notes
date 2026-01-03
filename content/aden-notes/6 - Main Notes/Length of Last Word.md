@@ -14,7 +14,7 @@ The only real trick here is that there may be additional spaces at the end of th
 
 The constraints are:
 
-1 <= *s* <= 10^4
+$1 \leq \textit{s} \leq 10^4$  
 *s* contains only characters and ' ', and contains at *least* one word
 
 ---
