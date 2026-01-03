@@ -1,3 +1,6 @@
+---
+publish: "True"
+---
 ## A
 
 ## B
