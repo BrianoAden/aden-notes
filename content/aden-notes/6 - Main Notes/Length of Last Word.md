@@ -21,9 +21,9 @@ The constraints are:
 
 **Examples:**
 
-s = "Hello World", length = 5
-s = "Hello World   ", length = 5
-s = "Hello, my    name   is  Aden Briano", length = 6
+s = "Hello World", length = 5  
+s = "Hello World   ", length = 5  
+s = "Hello, my    name   is  Aden Briano", length = 6  
 s = "a", length = 1
 
 ---
@@ -32,7 +32,7 @@ s = "a", length = 1
 
 	Sidenote: This solution has O(n) time complexity, like the more "efficient" solution I'm about to present.
 
-Instead of iterating through the string starting from the beginning, we can set a pointer at the end of the string. In the event that we encounter a ' ' character, we simply decrement the pointer. Once we finally encounter an alphabetical character, we can begin incrementing a counter, and decrementing our pointer until we encounter a second ' ', or reach the beginning of the string. 
+Instead of iterating through the string starting from the beginning, we can set a pointer at the end of the string. In the event that we encounter a ' ' character, we simply decrement the pointer. Once we finally encounter an alphabetical character, we can begin incrementing a counter, and decrementing our pointer until we encounter a second ' ', or reach the beginning of the string. Note that we need to check that right >= 0 so that we do not risk indexing out of bounds. 
 
 This way, we don't ALWAYS have to iterate through the entire string, only in the worst case. In the worst case, the time complexity is also O(n), and since we only consider the worst case when determining time complexity, we can say that the two solutions presented on this page have the same time complexity.
 
