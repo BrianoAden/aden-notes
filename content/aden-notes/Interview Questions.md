@@ -1,5 +1,5 @@
 ---
-publish: "True"
+publish: "true"
 ---
 File Created: 2026-01-02 00:46
 Last Modified: 2026-01-02 00:46

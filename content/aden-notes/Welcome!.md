@@ -1,5 +1,5 @@
 ---
-publish: "False"
+publish: "false"
 ---
 This is the new, first note for my online notetaking journey. Here I will detail what I'd like to get out of using Obsidian as a notetaking app, and how I plan on doing it!
 

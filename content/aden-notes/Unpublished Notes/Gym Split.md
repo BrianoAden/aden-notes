@@ -1,5 +1,5 @@
 ---
-publish: false
+publish: "false"
 ---
 ## Push: Wednesday/Sunday
 

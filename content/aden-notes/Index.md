@@ -1,5 +1,5 @@
 ---
-publish: "True"
+publish: "true"
 ---
 ## A
 

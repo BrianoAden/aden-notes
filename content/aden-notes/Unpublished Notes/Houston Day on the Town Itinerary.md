@@ -1,5 +1,5 @@
 ---
-publish: "False"
+publish: "false"
 ---
 **12:00 PM - 01:45 PM:** 
 Pickup with sweet treat/food -> Drop off suitcases and stuff at her dorm, chill there for a bit

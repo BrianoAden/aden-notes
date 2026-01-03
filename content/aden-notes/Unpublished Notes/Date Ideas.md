@@ -1,3 +1,3 @@
 ---
-publish: "False"
+publish: "false"
 ---

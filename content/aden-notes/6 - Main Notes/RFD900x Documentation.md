@@ -1,5 +1,5 @@
 ---
-publish: True
+publish: "true"
 ---
 
 2025-10-02 17:41

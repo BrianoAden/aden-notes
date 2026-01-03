@@ -1,5 +1,5 @@
 ---
-publish: "False"
+publish: "false"
 ---
 ## Get Done TODAY:
 - [ ] Figure out roadmap for A^2 Processor

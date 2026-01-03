@@ -1,5 +1,5 @@
 ---
-publish: "False"
+publish: false
 ---
 File Created: <% tp.file.creation_date() %>
 Last Modified: <% tp.file.last_modified_date() %>
