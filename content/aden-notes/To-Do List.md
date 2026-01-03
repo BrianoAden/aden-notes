@@ -1,5 +1,5 @@
 ---
-publish: sFalse
+publish: "False"
 ---
 ## Get Done TODAY:
 - [ ] Figure out roadmap for A^2 Processor
@@ -17,17 +17,7 @@ publish: sFalse
 ## Robotics
 - [ ] Start some work on testing the RFD900x
 - [ ] Put together schematic for test board
-
-
-AMD Interview Questions
-1. How to search for string using Linux
-2. Set associative versus direct mapped
-3. Memory hierarchy
-4. Difference between SRAM and DRAM
-5. What is faster than Caches
-6. How to swap variables using XOR
-7. Explain Tomasulo's Algorithm
-
+- [ ] Find a suitable radio for 2.4 GHz streaming
 
 
 

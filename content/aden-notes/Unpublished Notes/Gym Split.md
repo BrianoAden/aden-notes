@@ -1,3 +1,6 @@
+---
+publish: false
+---
 ## Push: Wednesday/Sunday
 
 Bench Press 3 x 10
@@ -10,7 +13,7 @@ Iso Lateral Bench Press or Chest Fly 3 x 10
 
 Lat Pulldown 3 x 10
 Seated Row 3 x 10
-Dumbbell Shrugs 3 x 10
+Dumbbell Shrugs or Rear Delt Fly 3 x 10
 Bicep Curl + Hammer Curl 3 x 10
 Pull ups 3 x 10
 
