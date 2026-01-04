@@ -1,8 +1,7 @@
 ---
 publish: "true"
+title: LeetCode Problems and Data Structures
 ---
-# LeetCode Problems and Data Structures
-
 ## Easy
 
 [[LengthOfLastWord|Length of Last Word]]

@@ -1,8 +1,7 @@
 ---
 publish: "true"
+title: Index
 ---
-# Index
-
 ## A
 
 ## B

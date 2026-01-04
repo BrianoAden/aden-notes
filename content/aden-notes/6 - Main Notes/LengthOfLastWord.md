@@ -1,8 +1,7 @@
 ---
 publish: "true"
+title: Length of Last Word
 ---
-# Length of Last Word
-
 File Created: 2026-01-03 13:15
 Last Modified: 2026-01-03 13:15
 

@@ -1,7 +1,7 @@
 ---
 publish: "true"
+title: Branch Prediction
 ---
-# Branch Prediction
 
 2025-09-21 15:05
 
