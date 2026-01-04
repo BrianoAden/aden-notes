@@ -3,7 +3,7 @@ publish: "true"
 ---
 # Easy
 
-[[Length of Last Word]]
+[[6 - Main Notes/Length of Last Word |Length of Last Word]]
 
 # Medium
 
