@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+# Multiple Pages in Web Development
+
 2025-08-24 17:12
 
 Status: 

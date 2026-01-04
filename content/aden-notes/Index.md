@@ -1,6 +1,8 @@
 ---
 publish: "true"
 ---
+# Index
+
 ## A
 
 ## B
@@ -24,7 +26,6 @@ publish: "true"
 ## L
 
 [[LeetCode]]
-
 ## M
 
 ## N

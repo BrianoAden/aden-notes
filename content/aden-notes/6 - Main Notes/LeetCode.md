@@ -1,12 +1,13 @@
 ---
 publish: "true"
 ---
-# Easy
+# LeetCode Problems and Data Structures
 
-[[6 - Main Notes/Length of Last Word |Length of Last Word]]
+## Easy
 
-# Medium
+[[LengthOfLastWord|Length of Last Word]]
+## Medium
 
-# Hard
+## Hard
 
-# Data Structures
+## Data Structures
