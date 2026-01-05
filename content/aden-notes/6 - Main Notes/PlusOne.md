@@ -13,7 +13,7 @@ Tags: [[LeetCode]]
 
 The goal of the problem is to add one to the large integer represented in `digits`. The constraints are:  
 
-$1 \leq digits.length \leq 100$ 
+$1 \leq digits.length \leq 100$  
 $0 \leq digits[i] \leq 9$  
 
 ---
