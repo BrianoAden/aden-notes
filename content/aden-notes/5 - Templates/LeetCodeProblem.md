@@ -1,5 +1,5 @@
 ---
-title: Title
+title: LeetCodeProblem
 ---
 File Created: <% tp.file.creation_date() %>  
 Last Modified: <% tp.file.last_modified_date() %>
@@ -11,10 +11,18 @@ Last Modified: <% tp.file.last_modified_date() %>
 }); 
 -%>
 
+Tags: [[LeetCode]]
 
-Status:
+---
 
-Tags:
+**Problem Description:**
 
-  
-# References
+---
+
+**Examples:**
+
+---
+
+**Solution:**
+
+Thanks for reading! Please email me any comments or suggestions at [brianoeaden@gmail.com](mailto:brianoeaden@gmail.com) :)

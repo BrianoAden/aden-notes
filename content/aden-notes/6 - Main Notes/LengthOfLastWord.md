@@ -2,7 +2,7 @@
 publish: "true"
 title: Length of Last Word
 ---
-File Created: 2026-01-03 13:15
+File Created: 2026-01-03 13:15  
 Last Modified: 2026-01-03 13:15
 
 Tags: [[LeetCode]]
@@ -41,7 +41,7 @@ The solution, in Python, would look like:
 
 ```python
 def lengthOfLastWord(self, s: str) -> int:
-		right = len(s) - 1
+	right = len(s) - 1
         length = 0
         while (s[right] == " "):
             right -= 1
