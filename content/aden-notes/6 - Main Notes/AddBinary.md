@@ -51,11 +51,11 @@ To make our addition a bit easier, we are going to zero-extend our operands to b
 
 Iterating through our binary strings and performing our addition will be easier if both strings are reversed anyway, so we'll go ahead and just reverse both before doing anything.  
 
-Now that our strings are reversed and are the same length, we can perform our addition. To do so, we will initialize a `carry` variable, which we will check at each bit addition. If `carry == 1`, then we will add it the corresponding bit in `b`. If the bit in `b` is 1, then we will generate another carry. The logic then looks like:  
+Now that our strings are reversed and are the same length, we can perform our addition. To do so, we will initialize a `carry` variable, which we will check at each bit addition. If `carry == 1`, then we will add it the corresponding bit in `b`. If the bit in `b` is 1, then we will generate another carry. The logic then looks like[^1]:  
 
 	If carry == 1
 		If b[i] == 1
-			=>b[i] = 0[^1]
+			=>b[i] = 0
 			=>carry = 1
 		else:
 			=>b[i] = 1
@@ -66,7 +66,9 @@ Note that any carry generated during the bitwise addition will not clash with ou
 
 The bitwise addition is pretty simple. If `a[i] = b[i] = 1`, then append a 0 to our resultant binary string and generate a carry. If `a[i] = b[i] = 0`, then append a 0 to our resultant binary string. In either of the two last cases: `a[i] = 1 and b[i] = 0` or `a[i] = 0 and b[i] = 1`, we can simply append a 1 to our resultant binary string. We loop through everything described above for the entire length of our operands.  
 
-At the end of our loop, it might be the case that our final bitwise addition yielded a carry, in which case we perform a check and append it to the end of our result. Since we performed our binary addition with reversed operands, we must then reverse our resultant binary string before returning anything. That should be all! The implementation in Python can be seen below.  
+At the end of our loop, it might be the case that our final bitwise addition yielded a carry, in which case we perform a check and append it to the end of our result. Since we performed our binary addition with reversed operands, we must then reverse our resultant binary string before returning anything.  
+
+Yippee! That should be all! The implementation in Python can be seen below.  
 
 ```python
 class Solution:
@@ -114,5 +116,6 @@ class Solution:
 ```
 
 Thanks for reading! Please email me any comments or suggestions at [brianoeaden@gmail.com](mailto:brianoeaden@gmail.com) :)
+
 
 [^1]: To perform the following assignment, we will need to convert our `b` binary string into a list.
