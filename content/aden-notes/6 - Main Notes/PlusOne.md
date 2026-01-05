@@ -2,8 +2,7 @@
 title: Plus One
 publish: "true"
 ---
-File Created: <% tp.file.creation_date() %>  
-Last Modified: <% tp.file.last_modified_date() %>
+File Created: 2026-01-04 23:45  
 
 Tags: [[LeetCode]]
 
