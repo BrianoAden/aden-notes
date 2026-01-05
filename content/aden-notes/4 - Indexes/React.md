@@ -1,3 +1,0 @@
-
-## Multiple Pages
-[[MultiplePagesinWebDevelopment]]
