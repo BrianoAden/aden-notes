@@ -38,7 +38,7 @@ The constraints are:
 
 **Solution:**  There are a few ways one could go about this. There is the most intuitive, but most inefficient way, which is to just iterate through the integers, checking their squares, and when you see $num$ such that $num^2 > x$, you return $num - 1$.  The Python implementation can be seen below.  
 
-```Python
+```python
 num = 0
 while((num * num) <= x):
 	if ((num * num) == x):
@@ -51,7 +51,7 @@ This is logically solid, but there is a similar, much faster way to do it using 
 
 From here, we check to see if the square of `M` is greater than or less than `x`. If it is equal, we just return `M`. If it is less, than we assign `L` to be our sitting version of `M`, leave `H` be, and again assign `M` to be the midpoint between the two. If it is greater, we assign `H` to `M`, leave `L` alone, and then reassign `M` to be the midpoint. This way, we eventually converge to a single number, the breaking condition being that `L == M`. The reasoning behind `L == M` being our breaking condition is because for `x > 2`, we will always converge to two consecutive integers `L` and `H`, of which the floor of the midpoint will be `L`, and thus `L == M`.
 
-```Python
+```python
 class Solution:
     def mySqrt(self, x: int) -> int:
         M = x//2
