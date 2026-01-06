@@ -6,7 +6,8 @@ title: LeetCode Problems and Data Structures
 
 [[LengthOfLastWord|Length of Last Word]]  
 [[PlusOne|Plus One]]  
-[[AddBinary|Add Binary]]
+[[AddBinary|Add Binary]]  
+[[sqrt(x)|Sqrt(x)]]
 ## Medium
 
 ## Hard
