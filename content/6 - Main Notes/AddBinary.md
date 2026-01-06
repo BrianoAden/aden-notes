@@ -1,6 +1,8 @@
 ---
 title: Add Binary
 publish: "true"
+tags: 
+- explorerexclude
 ---
 File Created: 2026-01-05 15:54  
 Last Modified: 2026-01-05 15:54

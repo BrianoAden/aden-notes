@@ -36,7 +36,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => {
+    // exclude files with the tag "explorerexclude"
+    return node.data?.tags?.includes("explorerexclude") !== true
+    },
+  }),
   ],
   right: [
     Component.Graph(),
@@ -60,7 +65,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+  filterFn: (node) => {
+    // exclude files with the tag "explorerexclude"
+    return node.data?.tags?.includes("explorerexclude") !== true
+    },
+  }),
   ],
   right: [],
 }

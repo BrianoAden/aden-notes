@@ -9,13 +9,13 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
-content/aden-notes/1\ -\ Rough Notes
-content/aden-notes/2\ -\ Source Material
-content/aden-notes/3\ -\ Tags
-content/aden-notes/4\ -\ Indexes
-content/aden-notes/5\ -\ Templates
-content/aden-notes/Personal\ Notes
-content/aden-notes/Projects
-content/aden-notes/Unpublished\ Notes
-content/aden-notes/To-Do\ List.md
-content/aden-notes/Welcome!.md
+content/1\ -\ Rough Notes
+content/2\ -\ Source Material
+content/3\ -\ Tags
+content/4\ -\ Indexes
+content/5\ -\ Templates
+content/Personal\ Notes
+content/Projects
+content/Unpublished\ Notes
+content/To-Do\ List.md
+content/Welcome!.md
