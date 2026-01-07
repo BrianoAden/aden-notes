@@ -9,7 +9,7 @@ Binary Search is a searching [[Algorithms|algorithm]] applied to an ordered arra
 
 ![[file-20260106125349484.png]] 
 
-**Conditions to Use Binary Search Algorithm:
+**Conditions to Use Binary Search Algorithm:**
 - The data structure is ordered.
 - Time to fetch any element is O(1).
 

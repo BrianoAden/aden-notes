@@ -14,3 +14,6 @@ Last Modified: 2026-01-02 00:46
 5. What is faster than Caches
 6. How to swap variables using XOR
 7. Explain Tomasulo's Algorithm
+
+**RISC**
+1. What is the primary difference between RISC and CISC architectures?
