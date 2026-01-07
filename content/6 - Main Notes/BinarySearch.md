@@ -11,7 +11,7 @@ Binary Search is a searching [[Algorithms|algorithm]] applied to an ordered arra
 
 **Conditions to Use Binary Search Algorithm:**
 - The data structure is ordered.
-- Time to fetch any element is O(1).
+- Time to fetch any element is O(1).[^1]
 
 **Binary Search Algorithm:**
 1. Divide the ordered array into halves by finding the `midpoint`.
@@ -48,7 +48,7 @@ def binarysearch(arr, x):
 
 Below is the [[Recursion|recursive]] implementation.  
 
-**Recursive Algorithm: O(Log N) Time and O(Log N) Space**[^1]
+**Recursive Algorithm: O(Log N) Time and O(Log N) Space**[^2]
 
 ```python
 def binarysearch(l, r, arr, x):
@@ -73,4 +73,7 @@ Thank you for reading! I hope you learned something useful!
 
 [BinarySearch: GeeksForGeeks](https://www.geeksforgeeks.org/dsa/binary-search/)
 
-[^1]: Notice that the iterative implementation is more space efficient than the recursive implementation. Interesting!
+[^1]: This means you can't perform binary search on a linked list, since searching is sequential, and the time to search is O(N).  
+
+[^2]: Notice that the iterative implementation is more space efficient than the recursive implementation. Interesting!
+
