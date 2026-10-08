@@ -3,6 +3,8 @@ title: Plus One
 publish: "true"
 tags: 
 - explorerexclude
+aliases:
+  - "6 - Main Notes/PlusOne"
 ---
 File Created: 2026-01-04 23:45  
 

@@ -1,6 +1,8 @@
 ---
 publish: "true"
 title: RFD900x Documentation
+aliases:
+  - "6 - Main Notes/RFD900xDocumentation"
 ---
 2025-10-02 17:41
 

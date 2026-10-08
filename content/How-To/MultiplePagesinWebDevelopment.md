@@ -1,6 +1,8 @@
 ---
 publish: "true"
 title: Multiple Pages in Web Development
+aliases:
+  - "6 - Main Notes/MultiplePagesinWebDevelopment"
 ---
 2025-08-24 17:12
 

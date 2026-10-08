@@ -1,6 +1,8 @@
 ---
 publish: "true"
 title: LeetCode Problems and Data Structures
+aliases:
+  - "6 - Main Notes/LeetCode"
 ---
 ## Easy
 

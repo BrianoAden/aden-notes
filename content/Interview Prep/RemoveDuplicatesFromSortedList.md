@@ -3,6 +3,8 @@ title: Remove Duplicates From a Sorted List
 tags:
   - explorerexclude
 publish: "true"
+aliases:
+  - "6 - Main Notes/RemoveDuplicatesFromSortedList"
 ---
 File Created: 2026-01-07 12:39  
 Last Modified: 2026-01-07 12:39

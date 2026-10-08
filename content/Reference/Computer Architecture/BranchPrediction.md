@@ -1,6 +1,8 @@
 ---
 publish: "true"
 title: Branch Prediction
+aliases:
+  - "6 - Main Notes/BranchPrediction"
 ---
 
 2025-09-21 15:05

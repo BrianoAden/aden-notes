@@ -1,6 +1,8 @@
 ---
 title: Binary Search
 publish: "true"
+aliases:
+  - "6 - Main Notes/BinarySearch"
 ---  
 
 File Created: 2026-01-06 11:00

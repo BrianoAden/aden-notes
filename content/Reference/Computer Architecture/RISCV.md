@@ -1,6 +1,8 @@
 ---
 title: RISC-V
 publish: "true"
+aliases:
+  - "A2Processor/RISCV"
 ---
 File Created: 2026-01-06 13:42  
 Last Modified: 2026-01-06 13:42

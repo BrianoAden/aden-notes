@@ -3,6 +3,8 @@ title: Sqrt(x)
 tags:
   - explorerexclude
 publish: "true"
+aliases:
+  - "6 - Main Notes/sqrt(x)"
 ---
 File Created: 2026-01-06 02:02  
 Last Modified: 2026-01-06 02:02

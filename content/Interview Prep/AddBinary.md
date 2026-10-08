@@ -3,6 +3,8 @@ title: Add Binary
 publish: "true"
 tags: 
 - explorerexclude
+aliases:
+  - "6 - Main Notes/AddBinary"
 ---
 File Created: 2026-01-05 15:54  
 Last Modified: 2026-01-05 15:54
