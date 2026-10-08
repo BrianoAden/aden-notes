@@ -11,11 +11,12 @@ private/
 replit.nix
 content/1\ -\ Rough Notes
 content/2\ -\ Source Material
-content/3\ -\ Tags
-content/4\ -\ Indexes
-content/5\ -\ Templates
-content/Personal\ Notes
 content/Projects
-content/Unpublished\ Notes
-content/To-Do\ List.md
-content/Welcome!.md
+content/Tags
+content/Indexes
+content/Templates
+content/Personal
+content/Reference/FPGA\ and\ VLSI
+content/Reference/Hardware/LED\ Multiplexing.md
+content/Interview\ Prep/FPGA_ASIC\ Interview\ Prep.md
+content/Courses/History\ 227

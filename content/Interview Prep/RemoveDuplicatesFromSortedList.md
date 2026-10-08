@@ -11,7 +11,7 @@ Tags: [[LeetCode]]
 
 ---
 
-**Problem Description:** The problem is conceptually simple. Given some sorted [[Linked Lists|linked list]] with root node `head`, remove all duplicate values and return the cut-down linked list.  
+**Problem Description:** The problem is conceptually simple. Given some sorted [[LinkedLists|linked list]] with root node `head`, remove all duplicate values and return the cut-down linked list.  
 
 The constraints are:  
 
@@ -36,7 +36,7 @@ The constraints are:
 
 ---
 
-**Solution:**  Like I mentioned above, this problem is conceptually pretty simple. We can keep track of our current node, and with it all of its value and the node that it points, and carefully move through the list, comparing values to our current node value, and removing them if they are equal. If we come across a node with a different value, then we know there must not exist any more duplicates, given that this is a sorted list, and thus we can move onto the next node to purge of its duplicates. 
+**Solution:**  Like I mentioned above, this problem is conceptually pretty simple. We can keep track of our current node, and with it its value and the node that it points to, and carefully move through the list, comparing values to our current node value, and removing them if they are equal. If we come across a node with a different value, then we know there must not exist any more duplicates, given that this is a sorted list, and thus we can move onto the next node to purge of its duplicates. 
 
 Below is the implementation in Python.  
 

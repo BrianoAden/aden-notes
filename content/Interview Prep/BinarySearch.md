@@ -67,7 +67,7 @@ def binarysearch(l, r, arr, x):
 		return binarysearch(mid - 1, h, arr, x)
 ```  
 
-Thank you for reading! I hope you learned something useful!  
+Thank you for reading! I hope you learned something useful![^3]  
 
 # References  
 
@@ -77,3 +77,4 @@ Thank you for reading! I hope you learned something useful!
 
 [^2]: Notice that the iterative implementation is more space efficient than the recursive implementation. Interesting!
 
+[^3]: Note that $L + \frac{H - L}{2}$ is often preferred over the equivalent $\frac{H + L}{2}$ when calculating the midpoint because the latter does not account for possible *integer overflow*.
